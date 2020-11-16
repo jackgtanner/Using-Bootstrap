@@ -1,0 +1,17 @@
+
+body{
+    background-color: rgb(200, 200, 200);
+}
+
+.container{
+    border: 2px solid black;
+}
+
+.row{
+    border: 2px solid red;
+}
+
+.col{
+    border: 2px solid cyan;
+}
+
